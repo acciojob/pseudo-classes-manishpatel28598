@@ -1,1 +1,8 @@
 /*  your css code here. If applicable */
+.bg-color{
+	backgroud-color: rgb(135, 206, 235);
+}
+.para1{
+	background-color: rgb(0, 0, 0);
+	color: white;
+}
